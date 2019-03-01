@@ -27,7 +27,15 @@
      15% Lab 4
      25% U3.Proyecto
      25% U4.Proyecto
-     
+
+ ## Registro y materiales
+ 
+ - [Listado de estudiantes](https://docs.google.com/spreadsheets/d/1jbCc0ZHC5qFMhwMEpoCgSFzHwP6lx_V77E4Blh6Tk38/edit#gid=2001230691)
+ - [Máquina virtual del curso](https://drive.google.com/file/d/1VI5oU_gQQ0LO_Eoiq8N66j1zgi8-vC6j/view?usp=sharing)
+ 
+
+
+
 ## Lecturas recomendadas
 
 - Hastie, Tibshirani, Friedman, **The Elements of Statistical Learning**, Springer-Verlag [website](https://web.stanford.edu/~hastie/ElemStatLearn/) [pdf](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)

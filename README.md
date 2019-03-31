@@ -8,8 +8,8 @@
     W04 26feb      U2.NN.Initz.Batch.Relu.Vanish      Lab 2.2
     W05  5mar      Labs                               Parcial         10Mar Deadline Lab1 Lab2
     W06 12mar      U3.CNN.ConvOp.Archs                Lab 3.1
-    W07 19mar      U3.CNN.Classf.Detectn.Segmtn       Lab 3.2
-    W08 26mar      U3.CNN.Transfer Learning           Lab 3.3         31Mar Deadline Lab3
+    W07 19mar      U3.CNN.Classf.Detectn.Segmtn       Lab 3.2         31Mar Deadline U3.05 3.06 3.07 3.10 3.11
+    W08 26mar      U3.CNN.Transfer Learning           Lab 3.3         7abr Deadline U3.15 3.16 3.17
     W09  2abr      U3.Proyecto                        U3.Proyecto
     W10  9abr      U3.Proyecto                        U3.Proyecto     14Abr Deadline U3.Proyecto
     W11 23abr      U4.RNN.SeqModels.BProp in Time     Lab 4.1
@@ -37,12 +37,18 @@ Para el proyecto U3 (redes convolucionales) y U4 (redes recurrentes) tendrás qu
 - plantear una estrategia de resolución (preprocesado, arquitectura de red, trasnfer learning, data augmentation, feature learning, etc.)
 - implementar el flujo de trabajo experimental
 
-Tu entrega habrá de ser uno o varios notebooks donde proveas evidencia del trabajo realizado, incluyendo experimentos pruebas, etc.
+### Entrega
 
-Criterios de evaluación
+Tu entrega habrá de ser **un repositorio github** con uno o varios notebooks donde proveas evidencia del trabajo realizado, incluyendo experimentos pruebas, etc.
 
-- **20% Reproducibilidad**. Tus notebooks han de ser 100% ejecutables sin errores, desde la descarga de datos hasta la obtención de tus resultados.
-- **20% Claridad**. Explica bien tu tarea
+**Para realizar tu entrega**, crea un documento llamado `U3.Proyecto` o `U4.Proyecto` en el Google drive compartido, que contenga el enlace a tu repositorio github. Si llamas distinto a este documento **no será tenido en cuenta**.
+
+### Criterios de evaluación
+
+- **25% Reproducibilidad**: Tus notebooks han de ser 100% ejecutables sin errores, desde la descarga de datos hasta la obtención de tus resultados. Si lo consideras necesario crea un fichero descargable con tus datos y publícalo en algún lado como están en los notebooks del curso. **No incluyas los datos en el repositorio**.
+- **25% Claridad**: Explica bien tu tarea (en los mismos notebooks), la métrica de evaluación que ests usando y el ciclo experimental que hiciste (probé tales arquitecturas de red, el modelo final tiene tal arquitectura porque las anteriores sufrían de overfitting, etc.) 
+- **25% Repositorio**: Tu repositorio ha de estar ordenado, con una estructura clara y con un README.md que indique qué notebooks ejecutar con tu resultado final, qué notebooks contienen los experimentos previos que hiciste, etc.
+- **25% Compleción**: Tu tarea ha de utilizar las técnicas vistas en clase y ha de demostrar un flujo experimental (prueba de varias arquitecturas, preprocesados, etc.). Igualmente has de incluir una **interpretación de tus resultados**.
 
 
  ## Registro y materiales
@@ -50,8 +56,6 @@ Criterios de evaluación
  - [Listado de estudiantes](https://docs.google.com/spreadsheets/d/1jbCc0ZHC5qFMhwMEpoCgSFzHwP6lx_V77E4Blh6Tk38/edit#gid=2001230691)
  - [Máquina virtual del curso](https://drive.google.com/file/d/1VI5oU_gQQ0LO_Eoiq8N66j1zgi8-vC6j/view?usp=sharing)
  
-
-
 
 ## Lecturas recomendadas
 
